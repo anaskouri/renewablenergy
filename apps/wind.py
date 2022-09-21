@@ -169,6 +169,7 @@ layout = html.Div([
         dbc.Tab([
             html.Ul([
                 html.Br(),
+                html.Li('Created by: Anas Kouri'),   
                 html.Li('Temporal Coverage: 1985 - 2021'),
                 html.Li([
                     'Source: ',
